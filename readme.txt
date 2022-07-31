@@ -1,5 +1,4 @@
-UMPPFTI is a look a like job platform in which users can look for a displayed or offered a position (job) from a specific company and can apply to it and in other hand
-company can manage users application and their posts on the platform.
+UMPPFTI is a look a like job platform in which users can look for a displayed or offered a position (job) from a specific company and can apply to it and in other hand company can manage users application and their posts on the platform.
 
 How to set-up the project:
 
